@@ -1,4 +1,4 @@
-jQuery Guillotine Plugin
+jQuery Guillotine Plugin 图片裁剪，缩放，旋转
 ========================
 
 [![NPM](https://nodei.co/npm/guillotine.png?mini=true)](https://npmjs.org/package/guillotine)
